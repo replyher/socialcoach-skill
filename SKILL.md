@@ -1,9 +1,10 @@
 ---
 name: socialcoach
 description: >
-  AI social skills coach for friendships, family, and everyday conversations.
-  Handle awkward situations, decline invitations gracefully, resolve conflicts,
-  comfort friends, deal with toxic people. 社交沟通 人际关系 拒绝话术 安慰朋友 家庭沟通
+  社交教练 人际关系 拒绝话术 安慰朋友 家庭沟通。Social skills coach, friendship & family advice.
+  Handle awkward situations, decline invitations, resolve conflicts, comfort friends.
+  催婚应对 借钱拒绝 聚会社交 尴尬化解 人情世故。
+  social friends family awkward comfort decline 社交 朋友 家人 沟通 拒绝
 metadata:
   openclaw:
     emoji: "🤝"

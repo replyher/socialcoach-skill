@@ -7,7 +7,7 @@ description: >
   social friends family awkward comfort decline 社交 朋友 家人 沟通 拒绝
 metadata:
   openclaw:
-    emoji: "🤝"
+    emoji: "💕🔥"
 ---
 
 # SocialCoach — Navigate Any Social Situation

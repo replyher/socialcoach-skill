@@ -1,10 +1,12 @@
 ---
 name: socialcoach
 description: >
-  社交教练 人际关系 拒绝话术 安慰朋友 家庭沟通。Social skills coach, friendship & family advice.
-  Handle awkward situations, decline invitations, resolve conflicts, comfort friends.
-  催婚应对 借钱拒绝 聚会社交 尴尬化解 人情世故。
-  social friends family awkward comfort decline 社交 朋友 家人 沟通 拒绝
+  Your social skills coach for navigating tricky interpersonal situations. Helps you
+  set healthy boundaries, handle people pleasers and confrontation, comfort grieving
+  friends, decline invitations gracefully, deal with narcissistic family members, and
+  survive awkward small talk as an introvert. Covers parent-child communication, marriage
+  pressure from relatives, lending money refusals, and networking for shy people.
+  Builds assertiveness and emotional intelligence. 社交教练、拒绝话术、催婚应对、人际边界。
 metadata:
   openclaw:
     emoji: "💕🔥"

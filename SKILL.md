@@ -1,12 +1,11 @@
 ---
 name: socialcoach
 description: >
-  Your social skills coach for navigating tricky interpersonal situations. Helps you
-  set healthy boundaries, handle people pleasers and confrontation, comfort grieving
-  friends, decline invitations gracefully, deal with narcissistic family members, and
-  survive awkward small talk as an introvert. Covers parent-child communication, marriage
-  pressure from relatives, lending money refusals, and networking for shy people.
-  Builds assertiveness and emotional intelligence. 社交教练、拒绝话术、催婚应对、人际边界。
+  SocialCoach is an AI social skills coach for people who want to handle boundaries,
+  confrontation, awkward small talk, and emotionally tricky conversations without sounding
+  cold. It helps with family pressure, friendship tension, grief support, polite refusal,
+  networking, and conflict repair for introverts, people pleasers, and anyone learning
+  assertiveness. 社交教练、人际边界、拒绝话术、冲突沟通。
 metadata:
   openclaw:
     emoji: "💕🔥"
